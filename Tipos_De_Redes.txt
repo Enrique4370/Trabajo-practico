@@ -1,0 +1,5 @@
+Existen 4 Tipos de Redes:
+Lan (Local Area Network)
+Wan 
+Man (Metropolitan Area Network)
+Pan (Personal Area Network)
